@@ -36,7 +36,7 @@ npm install
 
 ```bash
 cd frontend
-npm start
+npm run build
 ```
 
 #### Backend (Node.js) :
@@ -48,7 +48,7 @@ npm start
 
 ### 4. Accéder à l'UI
 
-Ouvrez votre navigateur et allez à : [http://localhost:3000](http://localhost:3000) pour l'interface utilisateur.
+Ouvrez votre navigateur et allez à : [http://localhost:3000](http://localhost:5000) pour l'interface utilisateur.
 
 ### 5. Lancer un audit
 
